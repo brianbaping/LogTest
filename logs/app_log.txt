@@ -1,0 +1,2 @@
+[12:54:11 -07:00] [thread 27400] [info] Application started with a new pattern.
+[12:54:11 -07:00] [thread 27400] [debug] This is a debug message.

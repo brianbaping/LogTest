@@ -1,0 +1,5 @@
+[2024-05-23 12:10:52.287] [file_logger] [info] This is logged to a file.
+[2024-05-23 12:39:41.897] [file_logger] [info] This is logged to a file.
+[2024-05-23 12:42:21.613] [file_logger] [info] This is logged to a file.
+[2024-05-23 12:44:50.979] [file_logger] [info] This is logged to a file.
+[2024-05-23 12:54:11.241] [file_logger] [info] This is logged to a file.
