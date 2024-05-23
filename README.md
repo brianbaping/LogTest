@@ -24,5 +24,5 @@ This project demonstrates how to set up and use `spdlog` as a singleton logger i
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/singleton-logger.git
-   cd singleton-logger
+   git clone https://github.com/yourusername/LogTest.git
+   cd LogTest
