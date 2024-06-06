@@ -6,6 +6,8 @@
 
 int main() {
     
+    // added comement
+    
     // Create a file logger
     auto file_logger = spdlog::basic_logger_mt("file_logger", "logs/basic_log.txt");
     file_logger->info("This is logged to a file.");
