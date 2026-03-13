@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: LogTest
+  description: "LogTest C++ project"
+  annotations:
+    github.com/project-slug: brianbaping/LogTest
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/brianbaping
